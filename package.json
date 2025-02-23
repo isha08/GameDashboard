@@ -38,7 +38,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://your-github-username.github.io/your-repository-name",
+    "homepage": "https://isha08.github.io/GameDashboard",
     "scripts": {
       "predeploy": "npm run build",
       "deploy": "gh-pages -d build"
