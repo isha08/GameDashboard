@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41b4ab14.css",
+    "main.js": "/static/js/main.5cbd3fbf.js",
+    "static/js/453.f0510b5a.chunk.js": "/static/js/453.f0510b5a.chunk.js",
+    "static/media/Guns_Bottles.png": "/static/media/Guns_Bottles.3706923ae32420731a9d.png",
+    "static/media/knife-hit.jpeg": "/static/media/knife-hit.eb698ca99f8df1f45032.jpeg",
+    "static/media/fruit-ninja.jpeg": "/static/media/fruit-ninja.431bf9af9e9670e57f8b.jpeg",
+    "static/media/dunk-shot.jpeg": "/static/media/dunk-shot.2065bc78b877e5d2ee19.jpeg",
+    "static/media/run-panda-run.jpeg": "/static/media/run-panda-run.ba78f3cf7229a46270bc.jpeg",
+    "static/media/battle-arena.jpeg": "/static/media/battle-arena.5824943c855395a9f614.jpeg",
+    "index.html": "/index.html",
+    "main.41b4ab14.css.map": "/static/css/main.41b4ab14.css.map",
+    "main.5cbd3fbf.js.map": "/static/js/main.5cbd3fbf.js.map",
+    "453.f0510b5a.chunk.js.map": "/static/js/453.f0510b5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41b4ab14.css",
+    "static/js/main.5cbd3fbf.js"
+  ]
+}
