@@ -1,0 +1,33 @@
+.battle-arena-wrapper {
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  margin: 2rem;
+  color: white;
+  text-align: center;
+  height: 250px;
+  max-height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.battle-arena-wrapper h2 {
+  margin-bottom: 1rem;
+}
+
+.battle-arena-wrapper p {
+  margin: 0.5rem 0;
+}
+
+.arena-button {
+  background-color: #f9a543;
+  color: white;
+  padding: 0.7rem 1.5rem;
+  border: none;
+  width: 100%;
+  margin-top: 1rem;
+  cursor: pointer;
+  border-radius: 0 0 10px 10px;
+  font-size: medium;
+}
